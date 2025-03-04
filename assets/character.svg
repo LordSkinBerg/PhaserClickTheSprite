@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Character face -->
+  <circle cx="100" cy="100" r="80" fill="#FFD700" stroke="#000" stroke-width="3"/>
+  
+  <!-- Eyes -->
+  <circle cx="70" cy="80" r="15" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  <circle cx="130" cy="80" r="15" fill="#FFFFFF" stroke="#000" stroke-width="2"/>
+  
+  <!-- Pupils -->
+  <circle cx="70" cy="80" r="7" fill="#000"/>
+  <circle cx="130" cy="80" r="7" fill="#000"/>
+  
+  <!-- Smile -->
+  <path d="M70 130 Q100 160 130 130" fill="none" stroke="#000" stroke-width="4" stroke-linecap="round"/>
+  
+  <!-- Rosy cheeks -->
+  <circle cx="60" cy="105" r="10" fill="#FF9999" opacity="0.5"/>
+  <circle cx="140" cy="105" r="10" fill="#FF9999" opacity="0.5"/>
+</svg>
